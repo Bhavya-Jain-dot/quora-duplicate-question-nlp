@@ -54,7 +54,7 @@ Output: Duplicate Question
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/quora-duplicate-question-nlp.git
+git clone [https://github.com/your-username/quora-duplicate-question-nlp.git](https://github.com/Bhavya-Jain-dot/quora-duplicate-question-nlp.git)
 
 Move to project folder:
 
